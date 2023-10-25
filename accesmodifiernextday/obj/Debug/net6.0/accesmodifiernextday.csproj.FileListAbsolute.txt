@@ -1,0 +1,56 @@
+C:\Users\Birinci novbe\Desktop\New folder\accesmodifiernextday\accesmodifiernextday\bin\Debug\net6.0\accesmodifiernextday.exe
+C:\Users\Birinci novbe\Desktop\New folder\accesmodifiernextday\accesmodifiernextday\bin\Debug\net6.0\accesmodifiernextday.deps.json
+C:\Users\Birinci novbe\Desktop\New folder\accesmodifiernextday\accesmodifiernextday\bin\Debug\net6.0\accesmodifiernextday.runtimeconfig.json
+C:\Users\Birinci novbe\Desktop\New folder\accesmodifiernextday\accesmodifiernextday\bin\Debug\net6.0\accesmodifiernextday.dll
+C:\Users\Birinci novbe\Desktop\New folder\accesmodifiernextday\accesmodifiernextday\bin\Debug\net6.0\accesmodifiernextday.pdb
+C:\Users\Birinci novbe\Desktop\New folder\accesmodifiernextday\accesmodifiernextday\obj\Debug\net6.0\accesmodifiernextday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\Desktop\New folder\accesmodifiernextday\accesmodifiernextday\obj\Debug\net6.0\accesmodifiernextday.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\accesmodifiernextday\accesmodifiernextday\obj\Debug\net6.0\accesmodifiernextday.AssemblyInfo.cs
+C:\Users\Birinci novbe\Desktop\New folder\accesmodifiernextday\accesmodifiernextday\obj\Debug\net6.0\accesmodifiernextday.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\accesmodifiernextday\accesmodifiernextday\obj\Debug\net6.0\accesmodifiernextday.dll
+C:\Users\Birinci novbe\Desktop\New folder\accesmodifiernextday\accesmodifiernextday\obj\Debug\net6.0\refint\accesmodifiernextday.dll
+C:\Users\Birinci novbe\Desktop\New folder\accesmodifiernextday\accesmodifiernextday\obj\Debug\net6.0\accesmodifiernextday.pdb
+C:\Users\Birinci novbe\Desktop\New folder\accesmodifiernextday\accesmodifiernextday\obj\Debug\net6.0\accesmodifiernextday.genruntimeconfig.cache
+C:\Users\Birinci novbe\Desktop\New folder\accesmodifiernextday\accesmodifiernextday\obj\Debug\net6.0\ref\accesmodifiernextday.dll
+C:\Users\sefer\OneDrive\Desktop\New folder (2)\Company_User-Console-App-Class-task\accesmodifiernextday\bin\Debug\net6.0\accesmodifiernextday.exe
+C:\Users\sefer\OneDrive\Desktop\New folder (2)\Company_User-Console-App-Class-task\accesmodifiernextday\bin\Debug\net6.0\accesmodifiernextday.deps.json
+C:\Users\sefer\OneDrive\Desktop\New folder (2)\Company_User-Console-App-Class-task\accesmodifiernextday\bin\Debug\net6.0\accesmodifiernextday.runtimeconfig.json
+C:\Users\sefer\OneDrive\Desktop\New folder (2)\Company_User-Console-App-Class-task\accesmodifiernextday\bin\Debug\net6.0\accesmodifiernextday.dll
+C:\Users\sefer\OneDrive\Desktop\New folder (2)\Company_User-Console-App-Class-task\accesmodifiernextday\bin\Debug\net6.0\accesmodifiernextday.pdb
+C:\Users\sefer\OneDrive\Desktop\New folder (2)\Company_User-Console-App-Class-task\accesmodifiernextday\obj\Debug\net6.0\accesmodifiernextday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sefer\OneDrive\Desktop\New folder (2)\Company_User-Console-App-Class-task\accesmodifiernextday\obj\Debug\net6.0\accesmodifiernextday.AssemblyInfoInputs.cache
+C:\Users\sefer\OneDrive\Desktop\New folder (2)\Company_User-Console-App-Class-task\accesmodifiernextday\obj\Debug\net6.0\accesmodifiernextday.AssemblyInfo.cs
+C:\Users\sefer\OneDrive\Desktop\New folder (2)\Company_User-Console-App-Class-task\accesmodifiernextday\obj\Debug\net6.0\accesmodifiernextday.csproj.CoreCompileInputs.cache
+C:\Users\sefer\OneDrive\Desktop\New folder (2)\Company_User-Console-App-Class-task\accesmodifiernextday\obj\Debug\net6.0\accesmodifiernextday.dll
+C:\Users\sefer\OneDrive\Desktop\New folder (2)\Company_User-Console-App-Class-task\accesmodifiernextday\obj\Debug\net6.0\refint\accesmodifiernextday.dll
+C:\Users\sefer\OneDrive\Desktop\New folder (2)\Company_User-Console-App-Class-task\accesmodifiernextday\obj\Debug\net6.0\accesmodifiernextday.pdb
+C:\Users\sefer\OneDrive\Desktop\New folder (2)\Company_User-Console-App-Class-task\accesmodifiernextday\obj\Debug\net6.0\accesmodifiernextday.genruntimeconfig.cache
+C:\Users\sefer\OneDrive\Desktop\New folder (2)\Company_User-Console-App-Class-task\accesmodifiernextday\obj\Debug\net6.0\ref\accesmodifiernextday.dll
+C:\Users\Birinci novbe\Desktop\New folder (2)\Company_User-Console-App-Class-task\accesmodifiernextday\bin\Debug\net6.0\accesmodifiernextday.exe
+C:\Users\Birinci novbe\Desktop\New folder (2)\Company_User-Console-App-Class-task\accesmodifiernextday\bin\Debug\net6.0\accesmodifiernextday.deps.json
+C:\Users\Birinci novbe\Desktop\New folder (2)\Company_User-Console-App-Class-task\accesmodifiernextday\bin\Debug\net6.0\accesmodifiernextday.runtimeconfig.json
+C:\Users\Birinci novbe\Desktop\New folder (2)\Company_User-Console-App-Class-task\accesmodifiernextday\bin\Debug\net6.0\accesmodifiernextday.dll
+C:\Users\Birinci novbe\Desktop\New folder (2)\Company_User-Console-App-Class-task\accesmodifiernextday\bin\Debug\net6.0\accesmodifiernextday.pdb
+C:\Users\Birinci novbe\Desktop\New folder (2)\Company_User-Console-App-Class-task\accesmodifiernextday\obj\Debug\net6.0\accesmodifiernextday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\Desktop\New folder (2)\Company_User-Console-App-Class-task\accesmodifiernextday\obj\Debug\net6.0\accesmodifiernextday.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder (2)\Company_User-Console-App-Class-task\accesmodifiernextday\obj\Debug\net6.0\accesmodifiernextday.AssemblyInfo.cs
+C:\Users\Birinci novbe\Desktop\New folder (2)\Company_User-Console-App-Class-task\accesmodifiernextday\obj\Debug\net6.0\accesmodifiernextday.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder (2)\Company_User-Console-App-Class-task\accesmodifiernextday\obj\Debug\net6.0\accesmodifiernextday.dll
+C:\Users\Birinci novbe\Desktop\New folder (2)\Company_User-Console-App-Class-task\accesmodifiernextday\obj\Debug\net6.0\refint\accesmodifiernextday.dll
+C:\Users\Birinci novbe\Desktop\New folder (2)\Company_User-Console-App-Class-task\accesmodifiernextday\obj\Debug\net6.0\accesmodifiernextday.pdb
+C:\Users\Birinci novbe\Desktop\New folder (2)\Company_User-Console-App-Class-task\accesmodifiernextday\obj\Debug\net6.0\accesmodifiernextday.genruntimeconfig.cache
+C:\Users\Birinci novbe\Desktop\New folder (2)\Company_User-Console-App-Class-task\accesmodifiernextday\obj\Debug\net6.0\ref\accesmodifiernextday.dll
+C:\Users\sefer\OneDrive\Desktop\New folder (3)\ww\accesmodifiernextday\bin\Debug\net6.0\accesmodifiernextday.exe
+C:\Users\sefer\OneDrive\Desktop\New folder (3)\ww\accesmodifiernextday\bin\Debug\net6.0\accesmodifiernextday.deps.json
+C:\Users\sefer\OneDrive\Desktop\New folder (3)\ww\accesmodifiernextday\bin\Debug\net6.0\accesmodifiernextday.runtimeconfig.json
+C:\Users\sefer\OneDrive\Desktop\New folder (3)\ww\accesmodifiernextday\bin\Debug\net6.0\accesmodifiernextday.dll
+C:\Users\sefer\OneDrive\Desktop\New folder (3)\ww\accesmodifiernextday\bin\Debug\net6.0\accesmodifiernextday.pdb
+C:\Users\sefer\OneDrive\Desktop\New folder (3)\ww\accesmodifiernextday\obj\Debug\net6.0\accesmodifiernextday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sefer\OneDrive\Desktop\New folder (3)\ww\accesmodifiernextday\obj\Debug\net6.0\accesmodifiernextday.AssemblyInfoInputs.cache
+C:\Users\sefer\OneDrive\Desktop\New folder (3)\ww\accesmodifiernextday\obj\Debug\net6.0\accesmodifiernextday.AssemblyInfo.cs
+C:\Users\sefer\OneDrive\Desktop\New folder (3)\ww\accesmodifiernextday\obj\Debug\net6.0\accesmodifiernextday.csproj.CoreCompileInputs.cache
+C:\Users\sefer\OneDrive\Desktop\New folder (3)\ww\accesmodifiernextday\obj\Debug\net6.0\accesmodifiernextday.dll
+C:\Users\sefer\OneDrive\Desktop\New folder (3)\ww\accesmodifiernextday\obj\Debug\net6.0\refint\accesmodifiernextday.dll
+C:\Users\sefer\OneDrive\Desktop\New folder (3)\ww\accesmodifiernextday\obj\Debug\net6.0\accesmodifiernextday.pdb
+C:\Users\sefer\OneDrive\Desktop\New folder (3)\ww\accesmodifiernextday\obj\Debug\net6.0\accesmodifiernextday.genruntimeconfig.cache
+C:\Users\sefer\OneDrive\Desktop\New folder (3)\ww\accesmodifiernextday\obj\Debug\net6.0\ref\accesmodifiernextday.dll
